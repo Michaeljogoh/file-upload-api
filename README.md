@@ -2,6 +2,10 @@
 
 This project is about performing CRUD (create, read, search) operations on Cloudinary using Nodejs, Express, Multer, MongoDB
 
+## Postman Documentation Link
+
+https://documenter.getpostman.com/view/21519072/UzXM1yRi
+
 ### run this app
 
 - Clone this repo and run **npm install**
